@@ -1,0 +1,3 @@
+This is a write command 
+qWe use the cat > fileName.extension to write on it
+q
